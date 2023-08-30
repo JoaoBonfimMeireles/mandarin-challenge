@@ -9,9 +9,9 @@
 ## ⚙️ Como rodar o projeto:
 
 - Instalar o Node.js e o Yarn
-- Clonar o projeto usando SSH e é necessário executar o comando: git@github.com:JoaoBonfimMeireles/mandarin-challenge.git
+- Clonar o projeto usando SSH e é necessário executar o comando: git clone git@github.com:JoaoBonfimMeireles/mandarin-challenge.git
 - Instalar as dependências: yarn ou npm install (caso a pessoa use o npm)
-
+  
 Feito isso, basta usar o comando yarn start ou npm start (caso a pessoa use o npm) e será aberta uma página web com o projeto.
 
 ## 🚀 Tecnologias:
