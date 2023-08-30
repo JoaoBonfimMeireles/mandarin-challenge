@@ -1,0 +1,27 @@
+.App input{
+    width: 19.125rem;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    border: 2px solid #000;
+    margin-bottom: 10px;
+}
+
+.App input:focus{
+    outline: none;
+}
+
+.App ul {
+    padding: 10px;
+    max-height: 150px;
+    overflow: hidden;
+    overflow-y: scroll;
+    background-color: #fff;
+}
+
+.App li {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid;
+}
