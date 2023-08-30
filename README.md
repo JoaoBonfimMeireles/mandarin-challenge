@@ -6,7 +6,15 @@
   <img alt="projeto DevLinks" src="/public/assets/readme.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## ⚙️ Como rodar o projeto:
+
+- Instalar o Node.js e o Yarn
+- Clonar o projeto usando SSH e é necessário executar o comando: git@github.com:JoaoBonfimMeireles/mandarin-challenge.git
+- Instalar as dependências: yarn ou npm install (caso a pessoa use o npm)
+
+Feito isso, basta usar o comando yarn start ou npm start (caso a pessoa use o npm) e será aberta uma página web com o projeto.
+
+## 🚀 Tecnologias:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -16,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - HTML e CSS
 
-## 💻 Projeto
+## 💻 Projeto:
 
 Pokedex com input de pesquisa.
 
